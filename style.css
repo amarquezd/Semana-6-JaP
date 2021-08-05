@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: gray;
+}
+
+body{
+    background-image: url(https://4.bp.blogspot.com/-p6kX0BTksRs/W0VlluB5V8I/AAAAAAACvaU/wHNDWj51mBoHnR1_czqC8fXE_cnbjUjqgCLcBGAs/s1600/Downloads.jpg);
+    margin-right: 40vh; 
+    margin-left: 40vh;
+}
+
+.autos{
+    display: grid; /*si un elemento se comporta como elemento de linea o de bloque, cambia el tipo de elemento*/
+    justify-content: center; 
+    align-content: center;
+    font-size: 2vh;
+    border: 3px solid gray;
+    background-color: rgb(78, 78, 78);
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+   }
+
+   th{
+       text-align: center;
+       color: white;
+       width: 50vh;
+   }
+
+   td{
+    text-align: center;
+    color: white;
+    width: 20vh;
+}

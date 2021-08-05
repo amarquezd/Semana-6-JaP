@@ -1,0 +1,32 @@
+[
+    {
+        "Marca": "Nissan",
+        "Modelo": "New Versa",
+        "Color": "Blanco",
+        "Puertas": 4
+    },
+    {
+        "Marca": "Volkswagen",
+        "Modelo": "Tiguan",
+        "Color": "Negro",
+        "Puertas": 4
+    },
+    {
+        "Marca": "Renault",
+        "Modelo": "Oroch",
+        "Color": "Blanco",
+        "Puertas": 4
+    },
+    {
+        "Marca": "Chevrolet",
+        "Modelo": "Camaro",
+        "Color": "Rojo",
+        "Puertas": 2
+    },
+    {
+        "Marca": "Honda",
+        "Modelo": "HR-V",
+        "Color": "Gris",
+        "Puertas": 2
+    }
+]
